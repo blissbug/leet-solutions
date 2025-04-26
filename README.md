@@ -30,4 +30,12 @@
 |  |
 | ------- |
 | [0835-linked-list-components](https://github.com/blissbug/leet-solutions/tree/master/0835-linked-list-components) |
+## String
+|  |
+| ------- |
+| [0306-additive-number](https://github.com/blissbug/leet-solutions/tree/master/0306-additive-number) |
+## Backtracking
+|  |
+| ------- |
+| [0306-additive-number](https://github.com/blissbug/leet-solutions/tree/master/0306-additive-number) |
 <!---LeetCode Topics End-->
