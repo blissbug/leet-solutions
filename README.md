@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/blissbug/leet-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0835-linked-list-components](https://github.com/blissbug/leet-solutions/tree/master/0835-linked-list-components) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/blissbug/leet-solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1105-uncrossed-lines](https://github.com/blissbug/leet-solutions/tree/master/1105-uncrossed-lines) |
 ## Binary Search
 |  |
@@ -21,11 +22,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1105-uncrossed-lines](https://github.com/blissbug/leet-solutions/tree/master/1105-uncrossed-lines) |
 ## Hash Table
 |  |
 | ------- |
 | [0835-linked-list-components](https://github.com/blissbug/leet-solutions/tree/master/0835-linked-list-components) |
+| [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -38,4 +41,17 @@
 |  |
 | ------- |
 | [0306-additive-number](https://github.com/blissbug/leet-solutions/tree/master/0306-additive-number) |
+| [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
+## Math
+|  |
+| ------- |
+| [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
+## Bitmask
+|  |
+| ------- |
+| [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
