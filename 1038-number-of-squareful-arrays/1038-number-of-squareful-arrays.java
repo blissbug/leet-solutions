@@ -16,9 +16,7 @@ class Solution {
 	}
 	public static void combi(int[] nums,List<List<Integer>> ll,List<Integer> curr,int prev,HashMap<Integer,Integer> map) {
 		if(curr.size()==nums.length) {
-			if(!ll.contains(curr)) {
-				ll.add(new ArrayList<>(curr));
-			}
+			ll.add(new ArrayList<>(curr));
 			return;
 		}
 		for(int i=0;i<nums.length;i++) {
