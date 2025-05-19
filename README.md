@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/blissbug/leet-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/blissbug/leet-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0835-linked-list-components](https://github.com/blissbug/leet-solutions/tree/master/0835-linked-list-components) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/blissbug/leet-solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/blissbug/leet-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/blissbug/leet-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,4 +56,12 @@
 |  |
 | ------- |
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
