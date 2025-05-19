@@ -6,21 +6,18 @@ class Solution {
         int j=0;
         //handle case for first k elements
         for(int i=0;i<nums.length;i++){
-            if(set.size()>=k){
-                set.remove(nums[j]);
-                sum-=nums[j];
-                j++;
-            }
             while(set.contains(nums[i])){
                 set.remove(nums[j]);
                 sum-=nums[j];
                 j++;
             }
-
-            set.add(nums[i]);
             sum+=nums[i];
-            if(set.size()==k){
-                ans=Math.max(sum,ans);
+            set.add(nums[i]);
+            if(i-j+1==k){
+                ans=Math.max(ans,sum);
+                sum-=nums[j];
+                set.remove(nums[j]);
+                j++;
             }
         }
         return ans;
