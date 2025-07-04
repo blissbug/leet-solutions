@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/blissbug/leet-solutions/tree/master/0048-rotate-image) |
 | [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0835-linked-list-components](https://github.com/blissbug/leet-solutions/tree/master/0835-linked-list-components) |
+| [0898-transpose-matrix](https://github.com/blissbug/leet-solutions/tree/master/0898-transpose-matrix) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/blissbug/leet-solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1105-uncrossed-lines](https://github.com/blissbug/leet-solutions/tree/master/1105-uncrossed-lines) |
@@ -73,4 +74,9 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/blissbug/leet-solutions/tree/master/0048-rotate-image) |
+| [0898-transpose-matrix](https://github.com/blissbug/leet-solutions/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/blissbug/leet-solutions/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
