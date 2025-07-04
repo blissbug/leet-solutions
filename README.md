@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/blissbug/leet-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/blissbug/leet-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/blissbug/leet-solutions/tree/master/0048-rotate-image) |
 | [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0835-linked-list-components](https://github.com/blissbug/leet-solutions/tree/master/0835-linked-list-components) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/blissbug/leet-solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
@@ -49,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/blissbug/leet-solutions/tree/master/0048-rotate-image) |
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 ## Bit Manipulation
 |  |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/blissbug/leet-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
