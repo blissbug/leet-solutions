@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/blissbug/leet-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/blissbug/leet-solutions/tree/master/0048-rotate-image) |
 | [0215-kth-largest-element-in-an-array](https://github.com/blissbug/leet-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0835-linked-list-components](https://github.com/blissbug/leet-solutions/tree/master/0835-linked-list-components) |
 | [0898-transpose-matrix](https://github.com/blissbug/leet-solutions/tree/master/0898-transpose-matrix) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/blissbug/leet-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/blissbug/leet-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
@@ -34,6 +36,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
 | [0835-linked-list-components](https://github.com/blissbug/leet-solutions/tree/master/0835-linked-list-components) |
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/blissbug/leet-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -54,10 +57,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/blissbug/leet-solutions/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 ## Bitmask
 |  |
@@ -85,6 +90,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/blissbug/leet-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
