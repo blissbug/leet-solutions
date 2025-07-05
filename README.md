@@ -36,6 +36,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/blissbug/leet-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
 | [0835-linked-list-components](https://github.com/blissbug/leet-solutions/tree/master/0835-linked-list-components) |
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
@@ -47,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/blissbug/leet-solutions/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/blissbug/leet-solutions/tree/master/0306-additive-number) |
 ## Backtracking
 |  |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/blissbug/leet-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/blissbug/leet-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
