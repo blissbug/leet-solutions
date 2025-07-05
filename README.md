@@ -44,6 +44,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/blissbug/leet-solutions/tree/master/0206-reverse-linked-list) |
 | [0835-linked-list-components](https://github.com/blissbug/leet-solutions/tree/master/0835-linked-list-components) |
 ## String
 |  |
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/blissbug/leet-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/blissbug/leet-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
