@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/blissbug/leet-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/blissbug/leet-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/blissbug/leet-solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/blissbug/leet-solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/blissbug/leet-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -27,10 +28,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/blissbug/leet-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/blissbug/leet-solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/blissbug/leet-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/blissbug/leet-solutions/tree/master/0053-maximum-subarray) |
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1105-uncrossed-lines](https://github.com/blissbug/leet-solutions/tree/master/1105-uncrossed-lines) |
 ## Hash Table
