@@ -55,6 +55,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/blissbug/leet-solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/blissbug/leet-solutions/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/blissbug/leet-solutions/tree/master/0306-additive-number) |
 ## Backtracking
@@ -141,4 +142,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/blissbug/leet-solutions/tree/master/0098-validate-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/blissbug/leet-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
