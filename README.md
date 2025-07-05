@@ -44,6 +44,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/blissbug/leet-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/blissbug/leet-solutions/tree/master/0206-reverse-linked-list) |
 | [0835-linked-list-components](https://github.com/blissbug/leet-solutions/tree/master/0835-linked-list-components) |
 ## String
@@ -106,5 +107,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/blissbug/leet-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/blissbug/leet-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
