@@ -13,6 +13,7 @@
 | [0118-pascals-triangle](https://github.com/blissbug/leet-solutions/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/blissbug/leet-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/blissbug/leet-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0835-linked-list-components](https://github.com/blissbug/leet-solutions/tree/master/0835-linked-list-components) |
 | [0898-transpose-matrix](https://github.com/blissbug/leet-solutions/tree/master/0898-transpose-matrix) |
@@ -26,6 +27,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/blissbug/leet-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/blissbug/leet-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/blissbug/leet-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/blissbug/leet-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 ## Bitmask
 |  |
@@ -125,6 +128,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/blissbug/leet-solutions/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/blissbug/leet-solutions/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/blissbug/leet-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
