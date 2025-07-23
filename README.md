@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/blissbug/leet-solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/blissbug/leet-solutions/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/blissbug/leet-solutions/tree/master/0118-pascals-triangle) |
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1105-uncrossed-lines](https://github.com/blissbug/leet-solutions/tree/master/1105-uncrossed-lines) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/blissbug/leet-solutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/blissbug/leet-solutions/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/blissbug/leet-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/blissbug/leet-solutions/tree/master/0169-majority-element) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/blissbug/leet-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
