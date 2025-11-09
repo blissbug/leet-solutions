@@ -6,7 +6,6 @@ class Solution:
         last = 1
         ans = []
         for i, v in enumerate(nums):
-            print(i,v)
             pre[i]=prev
             post[len(nums)-i-1]=last
             
