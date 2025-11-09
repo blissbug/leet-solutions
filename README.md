@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/blissbug/leet-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/blissbug/leet-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/blissbug/leet-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/blissbug/leet-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -51,6 +52,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/blissbug/leet-solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/blissbug/leet-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/blissbug/leet-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/blissbug/leet-solutions/tree/master/0242-valid-anagram) |
