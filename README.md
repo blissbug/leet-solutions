@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/blissbug/leet-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/blissbug/leet-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/blissbug/leet-solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/blissbug/leet-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/blissbug/leet-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -109,6 +110,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/blissbug/leet-solutions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Matrix
 |  |
