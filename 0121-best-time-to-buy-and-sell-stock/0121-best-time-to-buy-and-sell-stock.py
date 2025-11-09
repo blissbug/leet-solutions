@@ -4,6 +4,5 @@ class Solution:
         ans = 0
         for i in prices:
             buy = min(buy,i)
-            if(buy<i):
-                ans = max(i-buy,ans)
+            ans = max(i-buy,ans)
         return ans
