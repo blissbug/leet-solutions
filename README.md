@@ -27,6 +27,7 @@
 | [0951-partition-array-into-disjoint-intervals](https://github.com/blissbug/leet-solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1105-uncrossed-lines](https://github.com/blissbug/leet-solutions/tree/master/1105-uncrossed-lines) |
+| [1206-corporate-flight-bookings](https://github.com/blissbug/leet-solutions/tree/master/1206-corporate-flight-bookings) |
 | [2358-number-of-ways-to-split-array](https://github.com/blissbug/leet-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/blissbug/leet-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/blissbug/leet-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -117,6 +118,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/blissbug/leet-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/blissbug/leet-solutions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1206-corporate-flight-bookings](https://github.com/blissbug/leet-solutions/tree/master/1206-corporate-flight-bookings) |
 | [2358-number-of-ways-to-split-array](https://github.com/blissbug/leet-solutions/tree/master/2358-number-of-ways-to-split-array) |
 ## Matrix
 |  |
