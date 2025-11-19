@@ -28,6 +28,7 @@
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1105-uncrossed-lines](https://github.com/blissbug/leet-solutions/tree/master/1105-uncrossed-lines) |
 | [1206-corporate-flight-bookings](https://github.com/blissbug/leet-solutions/tree/master/1206-corporate-flight-bookings) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/blissbug/leet-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/blissbug/leet-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/blissbug/leet-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/blissbug/leet-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -57,6 +58,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/blissbug/leet-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1105-uncrossed-lines](https://github.com/blissbug/leet-solutions/tree/master/1105-uncrossed-lines) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/blissbug/leet-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0062-unique-paths](https://github.com/blissbug/leet-solutions/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/blissbug/leet-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/blissbug/leet-solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -119,6 +122,7 @@
 | [0238-product-of-array-except-self](https://github.com/blissbug/leet-solutions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1206-corporate-flight-bookings](https://github.com/blissbug/leet-solutions/tree/master/1206-corporate-flight-bookings) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/blissbug/leet-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2358-number-of-ways-to-split-array](https://github.com/blissbug/leet-solutions/tree/master/2358-number-of-ways-to-split-array) |
 ## Matrix
 |  |
