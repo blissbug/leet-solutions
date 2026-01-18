@@ -1,16 +1,20 @@
 class Solution {
     public int majorityElement(int[] nums) {
         int ct = 0;
-		Arrays.sort(nums);
-		for(int i=0;i<nums.length;i++) {
-			if(i!=0 && nums[i-1]!=nums[i]) {
-				ct = 0;
+		int ele = -1;
+		for(int num: nums) {
+			if(ct==0) {
+				ele = num; //assign the number as the result ad count 0
 			}
-			ct++;
-            if(ct>=(nums.length+1)/2) {
-				return nums[i];
+			if(ele!=num) {
+				//case when a diff element is present
+				ct--;
+			}
+			else {
+				//same element so increase the frequency
+				ct++;
 			}
 		}
-        return -1;
+        return ele;
     }
 }
