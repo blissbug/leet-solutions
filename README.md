@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/blissbug/leet-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/blissbug/leet-solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/blissbug/leet-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/blissbug/leet-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/blissbug/leet-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/blissbug/leet-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/blissbug/leet-solutions/tree/master/0169-majority-element) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/blissbug/leet-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/blissbug/leet-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/blissbug/leet-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/blissbug/leet-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/blissbug/leet-solutions/tree/master/0217-contains-duplicate) |
@@ -163,6 +165,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/blissbug/leet-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/blissbug/leet-solutions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/blissbug/leet-solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/blissbug/leet-solutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/blissbug/leet-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Tree
