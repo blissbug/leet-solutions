@@ -16,6 +16,7 @@
 | [0075-sort-colors](https://github.com/blissbug/leet-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/blissbug/leet-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/blissbug/leet-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/blissbug/leet-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/blissbug/leet-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/blissbug/leet-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/blissbug/leet-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/blissbug/leet-solutions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/blissbug/leet-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/blissbug/leet-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/blissbug/leet-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/blissbug/leet-solutions/tree/master/0217-contains-duplicate) |
@@ -206,4 +208,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/blissbug/leet-solutions/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/blissbug/leet-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
