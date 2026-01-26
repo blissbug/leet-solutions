@@ -24,6 +24,7 @@
 | [0238-product-of-array-except-self](https://github.com/blissbug/leet-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/blissbug/leet-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/blissbug/leet-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0835-linked-list-components](https://github.com/blissbug/leet-solutions/tree/master/0835-linked-list-components) |
 | [0898-transpose-matrix](https://github.com/blissbug/leet-solutions/tree/master/0898-transpose-matrix) |
@@ -73,6 +74,7 @@
 | [0217-contains-duplicate](https://github.com/blissbug/leet-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/blissbug/leet-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/blissbug/leet-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0835-linked-list-components](https://github.com/blissbug/leet-solutions/tree/master/0835-linked-list-components) |
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/blissbug/leet-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -126,6 +128,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/blissbug/leet-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/blissbug/leet-solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/blissbug/leet-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/blissbug/leet-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1206-corporate-flight-bookings](https://github.com/blissbug/leet-solutions/tree/master/1206-corporate-flight-bookings) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/blissbug/leet-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
