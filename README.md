@@ -103,6 +103,7 @@
 | [0268-missing-number](https://github.com/blissbug/leet-solutions/tree/master/0268-missing-number) |
 | [1038-number-of-squareful-arrays](https://github.com/blissbug/leet-solutions/tree/master/1038-number-of-squareful-arrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/blissbug/leet-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/blissbug/leet-solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/blissbug/leet-solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -141,6 +142,7 @@
 | ------- |
 | [0898-transpose-matrix](https://github.com/blissbug/leet-solutions/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/blissbug/leet-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/blissbug/leet-solutions/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Sorting
 |  |
 | ------- |
